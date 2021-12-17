@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MyComponent /> should render <MyComponent /> 1`] = `
+<div>
+  <input
+    type="text"
+  />
+  <button>
+    Hola Mundo
+  </button>
+</div>
+`;
